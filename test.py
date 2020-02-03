@@ -1,5 +1,5 @@
 print("Hello")
 
-x=67
+x=5
 
 print(x)
